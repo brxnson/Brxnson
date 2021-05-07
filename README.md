@@ -1,5 +1,3 @@
-<img alt="Profile-Views" src="https://komarev.com/ghpvc/?username=brxnson&color=00dcff" />
-
 # Hey There
 
 I am a new developer, have mainly worked on Discord Bots, however am starting to learn other things.
@@ -32,6 +30,8 @@ I am a new developer, have mainly worked on Discord Bots, however am starting to
         </td>
     </tr>
 </table>
+
+<img alt="Profile-Views" src="https://komarev.com/ghpvc/?username=brxnson&color=00dcff" />
 
 <br>
 
