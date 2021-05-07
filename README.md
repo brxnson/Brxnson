@@ -51,4 +51,5 @@ I am a new developer, have mainly worked on Discord Bots, however am starting to
 
 If you need any support feel free to [DM me on twitter](https://twitter.com/Brxnsonn) or DM me on discord at @Brxnson#0001
 
-Any feedback is appreciated, and any issues you run into feel free to create an issue in this repository!
+Any feedback is appreciated, and any issues you run into feel free to create an issue.
+!!
