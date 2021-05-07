@@ -13,7 +13,7 @@ I am a new developer, have mainly worked on Discord Bots, however am starting to
 
 <br>
 
-# Some Statistics
+# Profile Statistics
 
 <table>
     <tr>
@@ -36,7 +36,7 @@ I am a new developer, have mainly worked on Discord Bots, however am starting to
 
 <br>
 
-# Some Repositories
+# Repositories
 
 <table>
     <tr>
