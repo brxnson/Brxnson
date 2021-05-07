@@ -29,9 +29,10 @@ I am a new developer, have mainly worked on Discord Bots, however am starting to
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=brxnson&theme=highcontrast" alt="GitHub-Streak">
         </td>
     </tr>
+    <tr>
+        <img alt="Profile-Views" src="https://komarev.com/ghpvc/?username=brxnson&color=00dcff" />
+    </tr>
 </table>
-
-<img alt="Profile-Views" src="https://komarev.com/ghpvc/?username=brxnson&color=00dcff" />
 
 <br>
 
