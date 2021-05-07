@@ -20,15 +20,15 @@ I am a new developer, have mainly worked on Discord Bots, however am starting to
 <table>
     <tr>
         <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=brxnson&count_private=true&show_icons=true&theme=dark alt="Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=brxnson&count_private=true&show_icons=true&theme=highcontrast alt="Stats">
         </td>
         <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brxnson&layout=compact&theme=dark" alt="Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brxnson&layout=compact&theme=highcontrast" alt="Languages">
         </td>
     </tr>
     <tr>
         <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=brxnson&theme=dark" alt="GitHub-Streak">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=brxnson&theme=highcontrast" alt="GitHub-Streak">
         </td>
     </tr>
 </table>
@@ -41,7 +41,7 @@ I am a new developer, have mainly worked on Discord Bots, however am starting to
     <tr>
         <td>
             <a href="https://github.com/brxnson/Multi-Purpose-Discord-Bot">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=brxnson&repo=Multi-Purpose-Discord-Bot&theme=dark" alt="Multi-Purpose-Discord-Bot">
+                <img src="https://github-readme-stats.vercel.app/api/pin/?username=brxnson&repo=Multi-Purpose-Discord-Bot&theme=highcontrast" alt="Multi-Purpose-Discord-Bot">
             </a>
         </td>
 </table>
