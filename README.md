@@ -20,7 +20,7 @@ I am a new developer, have mainly worked on Discord Bots, however am starting to
 <table>
     <tr>
         <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=brxnson&count_private=true&show_icons=true&theme=highcontrast alt="Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=brxnson&count_private=true&show_icons=true&theme=highcontrast" alt="Stats">
         </td>
         <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brxnson&layout=compact&theme=highcontrast" alt="Languages">
